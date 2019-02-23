@@ -1,0 +1,31 @@
+{
+  "images" : [
+    {
+      "idiom" : "mac",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 152,
+          "height" : 17
+        },
+        "cap-insets" : {
+          "bottom" : 16,
+          "top" : 48,
+          "right" : 28,
+          "left" : 14
+        }
+      },
+      "idiom" : "mac",
+      "filename" : "chatto_bg_normal@2x.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
